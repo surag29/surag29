@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Aspiring+Data+Analyst;AI%2FData+Science+Enthusiast;Driven+to+create+value+with+data+%26+AI;Open+to+opportunities%2Fcollaboration)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
-
-I'm an **Aspiring Data Analyst** and **AI/Data Science Enthusiast** currently pursuing my **Bachelor's in Computer Science** (2022-2026). I'm passionate about leveraging AI and data science to effect positive change and transform data into actionable insights using cutting-edge technologies.
+I'm an **Aspiring Data Analyst** and **AI/Data Science Enthusiast** currently pursuing **Bachelor's in Artificial Intelligence and Data Science** (2022-2026). I'm passionate about leveraging AI and data science to effect positive change and transform data into actionable insights using cutting-edge technologies.
 
 ---
 
@@ -29,9 +28,6 @@ I'm an **Aspiring Data Analyst** and **AI/Data Science Enthusiast** currently pu
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Oct 2025)
 - **Google AI Essentials** (Coursera, Jan 2025)
 - **Intel Unnati Industrial Training Certificate** (Jul 2025)
-- **Introduction to TensorFlow for AI, ML, and DL** (Coursera)
-- **Python for Data Science** (IBM)
-- **Database Management System Specialization** (Meta)
 
 ---
 
@@ -43,22 +39,3 @@ I'm an **Aspiring Data Analyst** and **AI/Data Science Enthusiast** currently pu
 ---
 
 ## 💼 Professional Experience
-
-### Intel Unnati Industrial Training (May – Jul 2025)
-**Smart Automated System for Product Labeling and Traceability**
-- Developed an automated system for intelligent product labeling and end-to-end traceability management
-- Implemented machine learning models for product recognition and tracking
-
----
-
-## 🚀 Current Focus
-- Building real-world projects to strengthen my data analysis and machine learning portfolio 💼
-- Exploring advanced ML techniques: NLP, Computer Vision, and Deep Learning 🧠
-- Seeking **internships** and **entry-level opportunities** in Data Science/Analytics 📈
-
----
-
-## 📫 Let's Connect!
-- **Email:** [suraggupta2905@gmail.com](mailto:suraggupta2905@gmail.com)
-- **LinkedIn:** [linkedin.com/in/surag-gupta](https://linkedin.com/in/surag-gupta)
-- **GitHub:** [github.com/surag29](https://github.com/surag29)
