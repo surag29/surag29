@@ -1,7 +1,8 @@
 # Hi there, I'm Surag! 👋
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Aspiring+Data+Analyst;AI%2FData+Science+Enthusiast;Driven+to+create+value+with+data+%26+AI;Open+to+opportunities%2Fcollaboration)](https://git.io/typing-svg)
 
+## 👨‍💻 About Me
 I'm an **Aspiring Data Analyst** and **AI/Data Science Enthusiast** currently pursuing my **Bachelor's in Computer Science** (2022-2026). I'm passionate about leveraging AI and data science to effect positive change and transform data into actionable insights using cutting-edge technologies.
 
 ---
@@ -20,30 +21,19 @@ I'm an **Aspiring Data Analyst** and **AI/Data Science Enthusiast** currently pu
 
 ### 🗃️ Databases & Tools
 - **MySQL** | **PostgreSQL** (Relational Databases)
-- **MongoDB** (NoSQL)
-- **Power BI** (Data Visualization)
-- **Git** | **GitHub** (Version Control)
-
----
+- **Jupyter Notebooks** | **VS Code** | **Git/GitHub**
 
 ## 🚀 Current Focus
-
-Actively building projects in data analysis and AI while focusing on core concepts. Working on strengthening my foundation in:
-- Data cleaning and exploratory data analysis
-- Machine learning algorithms and implementation
-- Data visualization and storytelling
-- Real-world problem-solving with data
-
----
+- Building real-world projects to strengthen my data analysis and machine learning portfolio 💼
+- Exploring advanced ML techniques: NLP, Computer Vision, and Deep Learning 🧠
+- Seeking **internships** and **entry-level opportunities** in Data Science/Analytics 📈
 
 ## 🎓 Completed Certifications
-
-- ✅ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Completed)
-- ✅ **Google AI Essentials** (Coursera, January 2025) (Completed)
-- ✅ **Intel Unnati Industrial Training** (May–July 2025): Smart Automated System for Product Labeling and Traceability (Completed Industrial Training)
-
----
+- **Introduction to TensorFlow for AI, ML, and DL** (Coursera)
+- **Python for Data Science** (IBM)
+- **Database Management System Specialization** (Meta)
 
 ## 📫 Let's Connect!
-
-I'm always eager to collaborate on data-driven projects and connect with like-minded professionals. Feel free to reach out!
+- **Email:** [suraggupta2905@gmail.com](mailto:suraggupta2905@gmail.com)
+- **LinkedIn:** [linkedin.com/in/surag-gupta](https://linkedin.com/in/surag-gupta)
+- **GitHub:** [github.com/surag29](https://github.com/surag29)
