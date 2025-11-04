@@ -50,7 +50,7 @@ Actively building projects in data analysis and AI while focusing on core concep
 
 **🏅 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
-<img src="WhatsApp-Image-2025-10-02-at-18.00.27_b141582b.jpg" alt="Oracle Cloud AI Foundations Associate Badge" width="120"/>
+<img src="https://raw.githubusercontent.com/surag29/surag29/main/WhatsApp-Image-2025-10-02-at-18.00.27_b141582b.jpg" alt="Oracle Cloud AI Foundations Associate Badge" width="120"/>
 
 ---
 
